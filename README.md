@@ -6,7 +6,7 @@ Bienvenue sur le profil de xscrf, un développeur passionné et créatif qui exp
 
 Salut, je suis xscrf ! Je suis un développeur autodidacte avec une passion pour la création de solutions innovantes. Mon objectif est de contribuer à des projets excitants et d'apprendre constamment de nouvelles technologies.
 
-- 🌱 J'apprends actuellement d'autre domaine t'elle que le Réseaux et l'informatique Quantique :)
+- 🌱 J'apprends actuellement d'autres domaines tels que les réseaux et l'informatique quantique. :)
 - 💬 Demandes de collaboration et d'opportunités bienvenues !
 - 📫 Contactez-moi sur Discord : uhq.psycho
 
@@ -19,5 +19,6 @@ Salut, je suis xscrf ! Je suis un développeur autodidacte avec une passion pour
 
 Ajoutez fièrement mon badge TryHackMe à votre profil ! 🛡️
 
-```html
-<script src="https://tryhackme.com/badge/2709566"></script>
+[![TryHackMe Badge](https://tryhackme.com/badge/2709566)](https://tryhackme.com/p/xscrf)
+
+
