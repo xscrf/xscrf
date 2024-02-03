@@ -1,3 +1,11 @@
+## Badge TryHackMe 🎮
+<div align="center">
+    <a href="https://tryhackme.com/p/xscrf">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/xscrf.png" alt="TryHackMe Badge">
+    </a>
+</div>
+<p align="center">Voici mon profil TryHackMe. Bienvenue sur mon README ! 🛡️</p>
+
 # xscrf - Développeur Passionné 🚀
 
 Bienvenue sur le profil de xscrf, un développeur passionné et créatif qui explore continuellement le monde fascinant du code. 👨‍💻
@@ -14,9 +22,3 @@ Salut, je suis xscrf ! Je suis un développeur autodidacte avec une passion pour
 
 - [Nom du Projet 1](lien_vers_le_projet_1) - Description concise du projet 1.
 - [Nom du Projet 2](lien_vers_le_projet_2) - Description concise du projet 2.
-
-## Badge TryHackMe 🎮
-
-Ajoutez fièrement mon badge TryHackMe animé à votre profil ! 🛡️
-
-![TryHackMe Badge](https://tryhackme.com/badge/2709566)
