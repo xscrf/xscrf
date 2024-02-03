@@ -17,8 +17,6 @@ Salut, je suis xscrf ! Je suis un développeur autodidacte avec une passion pour
 
 ## Badge TryHackMe 🎮
 
-Ajoutez fièrement mon badge TryHackMe à votre profil ! 🛡️
+Ajoutez fièrement mon badge TryHackMe animé à votre profil ! 🛡️
 
-[![TryHackMe Badge](https://tryhackme.com/badge/2709566)](https://tryhackme.com/p/xscrf)
-
-
+![TryHackMe Badge](https://tryhackme.com/badge/2709566)
